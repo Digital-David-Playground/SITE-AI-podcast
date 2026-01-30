@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowRight, Linkedin, Globe } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { Card } from '@/components/ui';
 import { useLanguage, useLocalized } from '@/lib/i18n';
 import type { Host } from '@/lib/types';
@@ -53,35 +53,9 @@ export function HostCard({ host }: HostCardProps) {
             </div>
 
             <h3 className="text-xl font-bold text-white mb-1">{host.name}</h3>
-            <p className="text-sm text-zinc-400 mb-3">
+            <p className="text-sm text-zinc-400">
               {localize(host.title)}, {host.companies[0].name}
             </p>
-
-            {/* Social links */}
-            <div className="flex items-center space-x-3">
-              {host.social.linkedin && (
-                <a
-                  href={host.social.linkedin}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-zinc-400 hover:text-white transition-colors"
-                  onClick={(e) => e.stopPropagation()}
-                >
-                  <Linkedin size={18} />
-                </a>
-              )}
-              {host.social.website && (
-                <a
-                  href={host.social.website}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-zinc-400 hover:text-white transition-colors"
-                  onClick={(e) => e.stopPropagation()}
-                >
-                  <Globe size={18} />
-                </a>
-              )}
-            </div>
           </div>
         </div>
 

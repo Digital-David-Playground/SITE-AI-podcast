@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import { ArrowRight, Linkedin, Globe } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { Button, Container, Card } from '@/components/ui';
 import { useLanguage, useLocalized } from '@/lib/i18n';
 import type { Host } from '@/lib/types';
@@ -94,31 +94,7 @@ export function HostsPreview({ hosts }: HostsPreviewProps) {
                       </p>
 
                       {/* Footer */}
-                      <div className="flex items-center justify-between">
-                        <div className="flex items-center space-x-3">
-                          {host.social.linkedin && (
-                            <a
-                              href={host.social.linkedin}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="text-zinc-500 hover:text-white transition-colors"
-                              onClick={(e) => e.stopPropagation()}
-                            >
-                              <Linkedin size={18} />
-                            </a>
-                          )}
-                          {host.social.website && (
-                            <a
-                              href={host.social.website}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="text-zinc-500 hover:text-white transition-colors"
-                              onClick={(e) => e.stopPropagation()}
-                            >
-                              <Globe size={18} />
-                            </a>
-                          )}
-                        </div>
+                      <div className="flex items-center justify-end">
                         <ArrowRight className="w-4 h-4 text-zinc-500 group-hover:text-indigo-400 group-hover:translate-x-1 transition-all" />
                       </div>
                     </div>

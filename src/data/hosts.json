@@ -97,7 +97,7 @@
           "de": "CEO",
           "en": "CEO"
         },
-        "logo": "https://placehold.co/100x100/27272a/22c55e?text=DWG",
+        "logo": "/media/TDWG_256.png",
         "url": "https://www.dwg.io",
         "description": {
           "de": "Die Digital Workforce Group ist ein führender Anbieter von Workforce-Transformationslösungen und hilft Organisationen, sich durch innovative Staffing- und Beratungsservices an das digitale Zeitalter anzupassen.",
@@ -110,11 +110,24 @@
           "de": "CEO",
           "en": "CEO"
         },
-        "logo": "https://placehold.co/100x100/27272a/f59e0b?text=DD",
+        "logo": "/media/DD_256.png",
         "url": "https://www.digitaldavid.io",
         "description": {
           "de": "Digital David nutzt KI und Automatisierung, um die Art und Weise zu revolutionieren, wie Unternehmen digitale Herausforderungen angehen, und bietet modernste Lösungen für das moderne Unternehmen.",
           "en": "Digital David leverages AI and automation to revolutionize how businesses approach digital challenges, providing cutting-edge solutions for the modern enterprise."
+        }
+      },
+      {
+        "name": "Talentschmiede",
+        "role": {
+          "de": "CEO",
+          "en": "CEO"
+        },
+        "logo": "/media/TS_300.png",
+        "url": "https://www.talentschmiede.com",
+        "description": {
+          "de": "Talentschmiede ist spezialisiert auf IT-Recruiting und Talententwicklung und verbindet Unternehmen mit den besten Tech-Talenten.",
+          "en": "Talentschmiede specializes in IT recruiting and talent development, connecting companies with top tech talent."
         }
       }
     ],

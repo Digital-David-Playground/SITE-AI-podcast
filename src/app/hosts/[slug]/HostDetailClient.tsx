@@ -66,12 +66,16 @@ export function HostDetailClient({
                   href={company.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-12 h-12 rounded-xl bg-zinc-800/80 border border-zinc-700 flex items-center justify-center hover:border-zinc-600 transition-colors"
+                  className="w-12 h-12 rounded-xl bg-zinc-800/80 border border-zinc-700 flex items-center justify-center hover:border-zinc-600 transition-colors overflow-hidden"
                   title={company.name}
                 >
-                  <span className="text-lg font-bold text-white">
-                    {company.name.charAt(0)}
-                  </span>
+                  <Image
+                    src={company.logo}
+                    alt={company.name}
+                    width={32}
+                    height={32}
+                    className="w-8 h-8 object-contain"
+                  />
                 </a>
               ))}
             </div>
