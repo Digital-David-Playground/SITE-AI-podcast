@@ -1,0 +1,126 @@
+[
+  {
+    "id": "christian-culver",
+    "slug": "christian-culver",
+    "name": "Christian Culver",
+    "title": {
+      "de": "CEO",
+      "en": "CEO"
+    },
+    "bio": {
+      "de": "Christian Culver ist CEO von ITPAG, einem führenden IT-Beratungs- und Dienstleistungsunternehmen. Mit jahrzehntelanger Erfahrung im Technologiesektor hat Christian sich einen Ruf für die Förderung digitaler Transformation und die Bereitstellung innovativer Lösungen für Unternehmenskunden aufgebaut. Seine strategische Vision und sein praxisnaher Führungsstil haben ITPAG als vertrauenswürdigen Partner für Organisationen positioniert, die die Komplexität moderner IT-Landschaften meistern.",
+      "en": "Christian Culver is the CEO of ITPAG, a leading IT consulting and services company. With decades of experience in the technology sector, Christian has built a reputation for driving digital transformation and delivering innovative solutions for enterprise clients. His strategic vision and hands-on leadership style have positioned ITPAG as a trusted partner for organizations navigating the complexities of modern IT landscapes."
+    },
+    "shortBio": {
+      "de": "CEO von ITPAG, treibt digitale Transformation und innovative IT-Lösungen für Unternehmenskunden voran.",
+      "en": "CEO of ITPAG, driving digital transformation and innovative IT solutions for enterprise clients."
+    },
+    "image": "https://placehold.co/400x500/27272a/71717a?text=Christian\\nCulver",
+    "companies": [
+      {
+        "name": "ITPAG",
+        "role": {
+          "de": "CEO",
+          "en": "CEO"
+        },
+        "logo": "https://placehold.co/100x100/27272a/6366f1?text=ITPAG",
+        "url": "https://www.itpag.com/",
+        "description": {
+          "de": "ITPAG ist ein führendes IT-Beratungs- und Dienstleistungsunternehmen, spezialisiert auf digitale Transformation, Cloud-Lösungen und Enterprise-Technologiestrategie.",
+          "en": "ITPAG is a premier IT consulting and services company, specializing in digital transformation, cloud solutions, and enterprise technology strategy."
+        }
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/christianculver/",
+      "website": "https://www.itpag.com/"
+    }
+  },
+  {
+    "id": "hubert-corr",
+    "slug": "hubert-corr",
+    "name": "Hubert Corr",
+    "title": {
+      "de": "CEO",
+      "en": "CEO"
+    },
+    "bio": {
+      "de": "Hubert Corr leitet Itinera Projects & Experts als CEO und bringt umfassende Expertise in Projektmanagement und IT-Beratung mit. Sein Ansatz verbindet tiefes technisches Wissen mit strategischem Geschäftssinn und hilft Organisationen, komplexe Technologieinitiativen erfolgreich umzusetzen. Huberts Führung hat Itinera als bevorzugten Partner für Unternehmen etabliert, die fachkundige Begleitung für ihre anspruchsvollsten Projekte suchen.",
+      "en": "Hubert Corr leads Itinera Projects & Experts as CEO, bringing extensive expertise in project management and IT consulting. His approach combines deep technical knowledge with strategic business acumen, helping organizations execute complex technology initiatives successfully. Hubert's leadership has established Itinera as a go-to partner for companies seeking expert guidance on their most challenging projects."
+    },
+    "shortBio": {
+      "de": "CEO von Itinera Projects & Experts, Experte für Projektmanagement und IT-Beratung.",
+      "en": "CEO of Itinera Projects & Experts, expert in project management and IT consulting."
+    },
+    "image": "https://placehold.co/400x500/27272a/71717a?text=Hubert\\nCorr",
+    "companies": [
+      {
+        "name": "Itinera Projects & Experts",
+        "role": {
+          "de": "CEO",
+          "en": "CEO"
+        },
+        "logo": "https://placehold.co/100x100/27272a/8b5cf6?text=Itinera",
+        "url": "https://itinera-projects-experts.de/",
+        "description": {
+          "de": "Itinera Projects & Experts bietet spezialisierte IT-Beratung und Projektmanagement-Services und hilft Organisationen, erfolgreiche Technologieinitiativen umzusetzen.",
+          "en": "Itinera Projects & Experts provides specialized IT consulting and project management services, helping organizations deliver successful technology initiatives."
+        }
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/hubertcorr/",
+      "website": "https://itinera-projects-experts.de/"
+    }
+  },
+  {
+    "id": "stefan-ruehle",
+    "slug": "stefan-ruehle",
+    "name": "Stefan Rühle",
+    "title": {
+      "de": "CEO",
+      "en": "CEO"
+    },
+    "bio": {
+      "de": "Stefan Rühle ist ein Serial Entrepreneur und visionärer Leader im Tech- und Beratungsbereich. Als CEO der Digital Workforce Group und Digital David steht er an der Spitze von Workforce-Transformation und KI-gesteuerten Lösungen. Stefans unternehmerischer Weg spiegelt sein Engagement für Innovation und seine Fähigkeit wider, aufkommende Chancen in der digitalen Wirtschaft zu identifizieren und zu nutzen.",
+      "en": "Stefan Rühle is a serial entrepreneur and visionary leader in the tech and consulting space. As CEO of Digital Workforce Group and Digital David, he is at the forefront of workforce transformation and AI-driven solutions. Stefan's entrepreneurial journey reflects his commitment to innovation and his ability to identify and capitalize on emerging opportunities in the digital economy."
+    },
+    "shortBio": {
+      "de": "CEO der Digital Workforce Group und Digital David, Pionier für Workforce-Transformation und KI-Lösungen.",
+      "en": "CEO of Digital Workforce Group and Digital David, pioneering workforce transformation and AI solutions."
+    },
+    "image": "/media/stefan_ruehle_full.jpg",
+    "companies": [
+      {
+        "name": "Digital Workforce Group",
+        "role": {
+          "de": "CEO",
+          "en": "CEO"
+        },
+        "logo": "https://placehold.co/100x100/27272a/22c55e?text=DWG",
+        "url": "https://www.dwg.io",
+        "description": {
+          "de": "Die Digital Workforce Group ist ein führender Anbieter von Workforce-Transformationslösungen und hilft Organisationen, sich durch innovative Staffing- und Beratungsservices an das digitale Zeitalter anzupassen.",
+          "en": "Digital Workforce Group is a leading provider of workforce transformation solutions, helping organizations adapt to the digital age through innovative staffing and consulting services."
+        }
+      },
+      {
+        "name": "Digital David",
+        "role": {
+          "de": "CEO",
+          "en": "CEO"
+        },
+        "logo": "https://placehold.co/100x100/27272a/f59e0b?text=DD",
+        "url": "https://www.digitaldavid.io",
+        "description": {
+          "de": "Digital David nutzt KI und Automatisierung, um die Art und Weise zu revolutionieren, wie Unternehmen digitale Herausforderungen angehen, und bietet modernste Lösungen für das moderne Unternehmen.",
+          "en": "Digital David leverages AI and automation to revolutionize how businesses approach digital challenges, providing cutting-edge solutions for the modern enterprise."
+        }
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/stefan-ruehle/",
+      "website": "https://www.dwg.io"
+    }
+  }
+]

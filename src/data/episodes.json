@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ep-001",
+    "slug": "the-ai-revolution-hype-vs-reality",
+    "title": {
+      "de": "Die KI-Revolution: Hype vs. Realität im Unternehmen",
+      "en": "The AI Revolution: Hype vs. Reality in Enterprise"
+    },
+    "description": {
+      "de": "In unserer Premierenepisode tauchen Christian, Hubert und Stefan tief in den aktuellen Stand der KI in Unternehmensumgebungen ein. Sie trennen den Hype von der Realität und diskutieren, was tatsächlich funktioniert, was übertrieben versprochen wird und wo die echten Chancen für Unternehmen liegen, die KI effektiv nutzen wollen.",
+      "en": "In our inaugural episode, Christian, Hubert, and Stefan dive deep into the current state of AI in enterprise environments. They separate the hype from reality, discussing what's actually working, what's overpromised, and where the real opportunities lie for businesses looking to leverage AI effectively."
+    },
+    "wistiaId": "placeholder-001",
+    "thumbnail": "https://placehold.co/800x450/18181b/6366f1?text=AI+Revolution",
+    "duration": 3420,
+    "publishedAt": "2026-01-15T10:00:00Z",
+    "hosts": ["christian-culver", "hubert-corr", "stefan-ruehle"],
+    "topics": ["ai-technology", "digital-transformation", "strategy"],
+    "chapters": [
+      { "title": { "de": "Einführung", "en": "Introduction" }, "timestamp": 0 },
+      { "title": { "de": "Die aktuelle KI-Landschaft", "en": "The Current AI Landscape" }, "timestamp": 180 },
+      { "title": { "de": "Was tatsächlich funktioniert", "en": "What's Actually Working" }, "timestamp": 720 },
+      { "title": { "de": "Häufige Fallstricke", "en": "Common Pitfalls" }, "timestamp": 1440 },
+      { "title": { "de": "Echte Chancen", "en": "Real Opportunities" }, "timestamp": 2160 },
+      { "title": { "de": "Wichtige Erkenntnisse", "en": "Key Takeaways" }, "timestamp": 3000 }
+    ],
+    "featured": true
+  },
+  {
+    "id": "ep-002",
+    "slug": "building-teams-that-build-companies",
+    "title": {
+      "de": "Teams aufbauen, die Unternehmen aufbauen",
+      "en": "Building Teams That Build Companies"
+    },
+    "description": {
+      "de": "Die drei CEOs teilen ihre Erfahrungen und Philosophien zum Aufbau leistungsstarker Teams. Von Einstellungsstrategien bis zur Kulturentwicklung erkunden sie, was es braucht, um die Talente zu gewinnen und zu halten, die erfolgreiche Tech-Organisationen antreiben.",
+      "en": "The three CEOs share their experiences and philosophies on building high-performing teams. From hiring strategies to culture development, they explore what it takes to assemble and retain the talent that drives successful tech organizations."
+    },
+    "wistiaId": "placeholder-002",
+    "thumbnail": "https://placehold.co/800x450/18181b/8b5cf6?text=Building+Teams",
+    "duration": 2940,
+    "publishedAt": "2026-01-22T10:00:00Z",
+    "hosts": ["christian-culver", "hubert-corr", "stefan-ruehle"],
+    "topics": ["leadership", "workforce", "entrepreneurship"],
+    "chapters": [
+      { "title": { "de": "Einführung", "en": "Introduction" }, "timestamp": 0 },
+      { "title": { "de": "Einstellungsphilosophie", "en": "Hiring Philosophy" }, "timestamp": 150 },
+      { "title": { "de": "Kultur aufbauen", "en": "Building Culture" }, "timestamp": 600 },
+      { "title": { "de": "Mitarbeiterbindung", "en": "Retention Strategies" }, "timestamp": 1200 },
+      { "title": { "de": "Remote vs. Büro", "en": "Remote vs. In-Office" }, "timestamp": 1800 },
+      { "title": { "de": "Abschließende Gedanken", "en": "Final Thoughts" }, "timestamp": 2640 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ep-003",
+    "slug": "when-digital-transformation-goes-wrong",
+    "title": {
+      "de": "Wenn digitale Transformation schiefgeht",
+      "en": "When Digital Transformation Goes Wrong"
+    },
+    "description": {
+      "de": "Nicht jede Transformationsgeschichte hat ein Happy End. In dieser offenen Episode teilen unsere Moderatoren Geschichten aus gescheiterten digitalen Transformationsprojekten, analysieren was schiefgelaufen ist und extrahieren wertvolle Lektionen für alle, die ihre eigene Transformationsreise antreten.",
+      "en": "Not every transformation story has a happy ending. In this candid episode, our hosts share war stories from failed digital transformation projects, analyzing what went wrong and extracting valuable lessons for anyone embarking on their own transformation journey."
+    },
+    "wistiaId": "placeholder-003",
+    "thumbnail": "https://placehold.co/800x450/18181b/ef4444?text=Transformation+Fails",
+    "duration": 3180,
+    "publishedAt": "2026-01-29T10:00:00Z",
+    "hosts": ["christian-culver", "hubert-corr", "stefan-ruehle"],
+    "topics": ["digital-transformation", "consulting", "strategy"],
+    "chapters": [
+      { "title": { "de": "Einführung", "en": "Introduction" }, "timestamp": 0 },
+      { "title": { "de": "Geschichte #1", "en": "War Story #1" }, "timestamp": 180 },
+      { "title": { "de": "Geschichte #2", "en": "War Story #2" }, "timestamp": 780 },
+      { "title": { "de": "Geschichte #3", "en": "War Story #3" }, "timestamp": 1380 },
+      { "title": { "de": "Gemeinsame Muster", "en": "Common Patterns" }, "timestamp": 2100 },
+      { "title": { "de": "Scheitern vermeiden", "en": "How to Avoid Failure" }, "timestamp": 2700 }
+    ],
+    "featured": false
+  }
+]

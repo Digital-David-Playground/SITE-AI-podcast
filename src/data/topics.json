@@ -1,0 +1,98 @@
+[
+  {
+    "id": "digital-transformation",
+    "slug": "digital-transformation",
+    "name": {
+      "de": "Digitale Transformation",
+      "en": "Digital Transformation"
+    },
+    "description": {
+      "de": "Strategien und Einblicke zur Navigation der digitalen Transformationsreise",
+      "en": "Strategies and insights on navigating the digital transformation journey"
+    }
+  },
+  {
+    "id": "ai-technology",
+    "slug": "ai-technology",
+    "name": {
+      "de": "KI & Technologie",
+      "en": "AI & Technology"
+    },
+    "description": {
+      "de": "Erkundung von künstlicher Intelligenz und aufkommenden Technologien",
+      "en": "Exploring artificial intelligence and emerging technologies"
+    }
+  },
+  {
+    "id": "leadership",
+    "slug": "leadership",
+    "name": {
+      "de": "Führung",
+      "en": "Leadership"
+    },
+    "description": {
+      "de": "Führungsprinzipien und Managementstrategien für Tech-Leader",
+      "en": "Leadership principles and management strategies for tech leaders"
+    }
+  },
+  {
+    "id": "entrepreneurship",
+    "slug": "entrepreneurship",
+    "name": {
+      "de": "Unternehmertum",
+      "en": "Entrepreneurship"
+    },
+    "description": {
+      "de": "Aufbau und Skalierung erfolgreicher Tech-Unternehmen",
+      "en": "Building and scaling successful tech businesses"
+    }
+  },
+  {
+    "id": "consulting",
+    "slug": "consulting",
+    "name": {
+      "de": "Beratung",
+      "en": "Consulting"
+    },
+    "description": {
+      "de": "Die Kunst und das Geschäft der IT-Beratung",
+      "en": "The art and business of IT consulting"
+    }
+  },
+  {
+    "id": "workforce",
+    "slug": "workforce",
+    "name": {
+      "de": "Workforce & Talent",
+      "en": "Workforce & Talent"
+    },
+    "description": {
+      "de": "Teamaufbau und Talententwicklung im digitalen Zeitalter",
+      "en": "Building teams and developing talent in the digital age"
+    }
+  },
+  {
+    "id": "strategy",
+    "slug": "strategy",
+    "name": {
+      "de": "Business-Strategie",
+      "en": "Business Strategy"
+    },
+    "description": {
+      "de": "Strategisches Denken und Business Development Einblicke",
+      "en": "Strategic thinking and business development insights"
+    }
+  },
+  {
+    "id": "future-of-work",
+    "slug": "future-of-work",
+    "name": {
+      "de": "Zukunft der Arbeit",
+      "en": "Future of Work"
+    },
+    "description": {
+      "de": "Wie Technologie den Arbeitsplatz verändert",
+      "en": "How technology is reshaping the workplace"
+    }
+  }
+]

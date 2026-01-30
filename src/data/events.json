@@ -1,0 +1,19 @@
+[
+  {
+    "id": "event-001",
+    "slug": "live-qa-february-2026",
+    "title": {
+      "de": "Live Q&A: Fragt die CEOs alles",
+      "en": "Live Q&A: Ask the CEOs Anything"
+    },
+    "description": {
+      "de": "Begleiten Sie Christian, Hubert und Stefan bei einer exklusiven Live-Q&A-Session. Bringen Sie Ihre Fragen zu Tech-Leadership, digitaler Transformation, KI und Unternehmertum mit. Dies ist Ihre Chance, direkte Einblicke von drei erfahrenen Tech-Unternehmern zu erhalten.",
+      "en": "Join Christian, Hubert, and Stefan for an exclusive live Q&A session. Bring your questions about tech leadership, digital transformation, AI, and entrepreneurship. This is your chance to get direct insights from three experienced tech entrepreneurs."
+    },
+    "date": "2026-02-15",
+    "time": "18:00",
+    "timezone": "CET",
+    "registrationUrl": "#",
+    "status": "upcoming"
+  }
+]
