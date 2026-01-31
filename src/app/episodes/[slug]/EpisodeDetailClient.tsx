@@ -30,7 +30,7 @@ export function EpisodeDetailClient({
 }: EpisodeDetailClientProps) {
   const { t, locale } = useLanguage();
   const localize = useLocalized();
-  const [episodeUrl, setEpisodeUrl] = useState(`https://techleadersunplugged.com/episodes/${episode.slug}`);
+  const [episodeUrl, setEpisodeUrl] = useState(`https://techleadersunplugged.io/episodes/${episode.slug}`);
 
   useEffect(() => {
     // Use actual URL when running in browser

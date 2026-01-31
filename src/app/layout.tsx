@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "de_DE",
-    url: "https://techleadersunplugged.com",
+    url: "https://techleadersunplugged.io",
     siteName: "Tech Leaders Unplugged",
     title: "Tech Leaders Unplugged",
     description:
