@@ -15,7 +15,7 @@
       "de": "CEO von ITPAG, treibt digitale Transformation und innovative IT-Lösungen für Unternehmenskunden voran.",
       "en": "CEO of ITPAG, driving digital transformation and innovative IT solutions for enterprise clients."
     },
-    "image": "https://placehold.co/400x500/27272a/71717a?text=Christian\\nCulver",
+    "image": "/media/Christian_Culver.jpeg",
     "companies": [
       {
         "name": "ITPAG",
@@ -23,7 +23,7 @@
           "de": "CEO",
           "en": "CEO"
         },
-        "logo": "https://placehold.co/100x100/27272a/6366f1?text=ITPAG",
+        "logo": "/media/ITPAG-Logo_main-o8yjkva5umcciygzer2ehqdu6az4nwf2gvvmiraoq0.png",
         "url": "https://www.itpag.com/",
         "description": {
           "de": "ITPAG ist ein führendes IT-Beratungs- und Dienstleistungsunternehmen, spezialisiert auf digitale Transformation, Cloud-Lösungen und Enterprise-Technologiestrategie.",
