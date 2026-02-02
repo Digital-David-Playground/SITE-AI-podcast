@@ -16,6 +16,7 @@
       "en": "CEO of ITPAG, driving digital transformation and innovative IT solutions for enterprise clients."
     },
     "image": "/media/IMG_0293.jpeg",
+    "portrait": "/media/IMG_0284.jpeg",
     "companies": [
       {
         "name": "ITPAG",
@@ -53,6 +54,7 @@
       "en": "CEO of Itinera Projects & Experts, expert in project management and IT consulting."
     },
     "image": "/media/IMG_0281.jpeg",
+    "portrait": "/media/IMG_0279 2.jpeg",
     "companies": [
       {
         "name": "Itinera Projects & Experts",
@@ -60,7 +62,7 @@
           "de": "CEO",
           "en": "CEO"
         },
-        "logo": "https://placehold.co/100x100/27272a/8b5cf6?text=Itinera",
+        "logo": "/media/itinera-logo.png",
         "url": "https://itinera-projects-experts.de/",
         "description": {
           "de": "Itinera Projects & Experts bietet spezialisierte IT-Beratung und Projektmanagement-Services und hilft Organisationen, erfolgreiche Technologieinitiativen umzusetzen.",
@@ -90,6 +92,7 @@
       "en": "CEO of Digital Workforce Group and Digital David, pioneering workforce transformation and AI solutions."
     },
     "image": "/media/stefan_ruehle_full.jpg",
+    "portrait": "/media/stefan_ruehle_round.jpg",
     "companies": [
       {
         "name": "Digital Workforce Group",

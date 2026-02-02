@@ -46,7 +46,7 @@ export function HostDetailClient({
             <div className="relative aspect-[3/4] rounded-2xl overflow-hidden bg-zinc-900">
               <div className="absolute inset-0 bg-gradient-to-br from-indigo-600/20 to-purple-600/20 z-10" />
               <Image
-                src={host.image}
+                src={host.portrait || host.image}
                 alt={host.name}
                 fill
                 className="object-cover"

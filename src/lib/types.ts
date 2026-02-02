@@ -40,6 +40,7 @@ export interface Host {
   bio: LocalizedString;
   shortBio: LocalizedString;
   image: string;
+  portrait?: string;
   companies: Company[];
   social: {
     linkedin?: string;
